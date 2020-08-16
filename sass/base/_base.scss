@@ -1,0 +1,15 @@
+.link {
+    text-decoration: none;
+    display: block;
+}
+
+.list {
+    list-style: none;
+}
+
+body {
+    background-color: $title-dark-theme-color;
+    color: $text-light-theme-color;
+    font-size: 14px;
+    font-family: $main-font;
+}
